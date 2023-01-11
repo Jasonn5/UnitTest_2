@@ -1,0 +1,8 @@
+/.vs
+/packages
+/Library/.vs
+/Library/bin
+/Library/obj
+/Library/logs
+/Library.Test/obj
+/Library.Test/bin
